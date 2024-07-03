@@ -1,11 +1,8 @@
 {
 	"name": "fmentor-nft-plain-swiper-web-component",
+	"private": true,
 	"version": "1.0.0",
-	"description": "nft preview card component using plain mode + swiper web component",
-	"main": "index.js",
-	"scripts": {
-		"lint": "prettier --write ."
-	},
+	"type": "module",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/al3xback/fmentor-nft-plain-swiper-web-component.git"
@@ -15,8 +12,5 @@
 	"bugs": {
 		"url": "https://github.com/al3xback/fmentor-nft-plain-swiper-web-component/issues"
 	},
-	"homepage": "https://github.com/al3xback/fmentor-nft-plain-swiper-web-component#readme",
-	"devDependencies": {
-		"prettier": "^2.8.8"
-	}
+	"homepage": "https://github.com/al3xback/fmentor-nft-plain-swiper-web-component#readme"
 }
