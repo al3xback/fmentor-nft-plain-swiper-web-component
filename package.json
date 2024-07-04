@@ -3,14 +3,6 @@
 	"private": true,
 	"version": "1.0.0",
 	"type": "module",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-nft-plain-swiper-web-component.git"
-	},
 	"author": "alex <al3xback@gmail.com>",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-nft-plain-swiper-web-component/issues"
-	},
-	"homepage": "https://github.com/al3xback/fmentor-nft-plain-swiper-web-component#readme"
+	"license": "ISC"
 }
